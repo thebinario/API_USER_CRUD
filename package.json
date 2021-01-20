@@ -1,0 +1,23 @@
+{
+  "name": "node_express",
+  "version": "1.0.0",
+  "description": "API em node.js usando Express para: criar, ler, atualizar e deletar usuários",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebinario/API_USER_CRUD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thebinario/API_USER_CRUD/issues"
+  },
+  "homepage": "https://github.com/thebinario/API_USER_CRUD#readme"
+}
